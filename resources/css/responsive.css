@@ -96,6 +96,12 @@ M queries: 676
         padding-right: 1rem;
     }
 
+    /* cardapio */
+
+    .product-list h1 {
+        font-size: 2rem;
+    }
+
     /* testimonials */
 
     #testimonials .container {
@@ -265,6 +271,10 @@ M queries: 676
     .subtitle{
         font-size: 1.12rem;
     }
+
+    .menu-products .product-list h1 {
+        font-size: 1.5rem;
+    }
 }
 
 @media (min-width: 700px) {
@@ -299,5 +309,9 @@ M queries: 676
     img {
         width: 90%;
         top: 0;
+    }
+
+    .product-list h1 {
+        font-size: 1.4rem;
     }
 }
