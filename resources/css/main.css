@@ -29,7 +29,7 @@ ul {
     --text-color-light: hsl(0 0% 98%);
     --body-color: hsl(0 0% 98%);
 
-    --title-font-size: 1.85rem;
+    --title-font-size: 1.35rem;
     --subtitle-font-size: 1rem
 }
 
@@ -42,7 +42,7 @@ html {
 body {
     background: var(--body-color);
     color: var(--text-color);
-    font: 400 1rem 'Josefin Sans', sans-serif;
+    font: 400 1.2rem 'Josefin Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -229,7 +229,7 @@ nav.show .menu ul {
   }
   
 nav.show ul.grid {
-    gap: 4rem;
+    gap: 3rem;
   }
 
 /* toggle do menu */
@@ -272,7 +272,7 @@ nav.show ul.grid {
     top: 0.5rem;                /* ------------- */
     right: 2.9rem;
     padding-bottom: 4rem;
-    width: 90%;
+    width: 80%;
 }
 
 #home .image {
@@ -310,6 +310,11 @@ nav.show ul.grid {
     margin-bottom: 1rem;
 }
 
+#home .text span {
+    color: var(--base-color);
+    font-weight: bold;
+}
+
 /* sobre nos */
 
 #home {
@@ -333,7 +338,7 @@ nav.show ul.grid {
 #about .image::before{
     content: '';
     height: 80%;
-    width: 100%;
+    width: 85%;
     background: var(--base-color-second);
     position: absolute;
     top: 3%;
@@ -350,6 +355,19 @@ nav.show ul.grid {
     margin-left: 1.5rem;
     margin-right: 1.5rem;
     max-width: 100%;
+}
+
+#SopCover {
+    width: 75%;
+}
+
+#about .text span {
+    color: var(--base-color);
+    font-weight: bold;
+}
+
+#about .text p {
+    font-size: 1.2rem;
 }
 
 /* serviços */
@@ -405,6 +423,11 @@ nav.show ul.grid {
 
 .product-list h1 {
     font-size: 1rem;
+}
+
+#products .text span {
+    color: var(--base-color);
+    font-weight: bold;
 }
 
 /* testimonials */
@@ -502,6 +525,11 @@ nav.show ul.grid {
 
 #contact ul li i {
     color: var(--base-color);
+}
+
+#contact .text span {
+    color: var(--base-color);
+    font-weight: bold;
 }
 
 /* footer */
