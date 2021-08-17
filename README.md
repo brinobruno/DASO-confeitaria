@@ -9,6 +9,8 @@
 
 ![website](https://user-images.githubusercontent.com/81701584/129648339-41ee78da-7613-447a-9f81-309296d70883.png)
 
+Você pode acessar por [aqui]
+
 > Projeto feito para a confeitaria DA.SO, o projeto conta com um site de 1 página com 6 seções, além de 1 header e 1 footer,
 além de JavaScript e CSS puro foram utilizados algumas bibliotecas.
 
@@ -21,3 +23,5 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Ajustar a paleta de cores via hue
 - [ ] Ajustar o tamanho da barra de navegação
 - [ ] Criar um sistema de encomendas, pedidos e orçamentos
+
+[aqui]: https://daso-confeitaria.vercel.app
