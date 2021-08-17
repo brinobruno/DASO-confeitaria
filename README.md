@@ -1,6 +1,8 @@
 # DA.SO Confeitaria Artesanal
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/brinobruno/DASO-confeitaria?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/last-commit/brinobruno/daso-confeitaria/main?style=for-the-badge)
+---
 ![GitHub language1](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![GitHub language2](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub language3](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
