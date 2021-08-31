@@ -24,4 +24,4 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Ajustar o tamanho da barra de navegação
 - [ ] Criar um sistema de encomendas, pedidos e orçamentos
 
-[aqui]: https://daso-confeitaria.vercel.app
+[aqui]: https://da-so.vercel.app
