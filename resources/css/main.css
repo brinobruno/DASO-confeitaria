@@ -595,3 +595,7 @@ footer .social a:hover {
     opacity: 1;
     transform: translateY(0);
   }
+
+  html, body {
+    overflow-x: hidden;
+  }
